@@ -1,2 +1,2 @@
 # Tic-Tac-Toe-Game
-I have created tic tac toe console-based game using C++.
+I have created console based tic tac toe game using C++. In this game made a box which consist number from 1 to 9.There will be two players, player one and player two,first player has sign 'x' where second player has sign '0'. When we run the program ,message will popup player one enter a number then player two enter both players will enter their respective selected numbers and vice versa, the game will continue until  one player wins. 
